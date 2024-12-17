@@ -1,0 +1,7 @@
+D:\muxazz\ConsoleApp17.12.24\bin\Debug\ConsoleApp17.12.24.exe.config
+D:\muxazz\ConsoleApp17.12.24\bin\Debug\ConsoleApp17.12.24.exe
+D:\muxazz\ConsoleApp17.12.24\bin\Debug\ConsoleApp17.12.24.pdb
+D:\muxazz\ConsoleApp17.12.24\obj\Debug\ConsoleApp17.12.24.csproj.AssemblyReference.cache
+D:\muxazz\ConsoleApp17.12.24\obj\Debug\ConsoleApp17.12.24.csproj.CoreCompileInputs.cache
+D:\muxazz\ConsoleApp17.12.24\obj\Debug\ConsoleApp17.12.24.exe
+D:\muxazz\ConsoleApp17.12.24\obj\Debug\ConsoleApp17.12.24.pdb
